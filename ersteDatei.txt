@@ -1,1 +1,3 @@
 Das ist eine beliebliche Textdatei
+
+Ich bearbeite sie lokal
